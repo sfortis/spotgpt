@@ -4,8 +4,7 @@ Generate music recommendations based on a prompt and create a Spotify playlist w
 
 
 This code is a Python script that generates music recommendations based on a given prompt using OpenAI's GPT-3.5 language model. 
-It then searches for these recommended tracks on Spotify and creates a playlist with the matching tracks. The code uses the Spotipy library for interacting with the Spotify Web API and the OpenAI library for generating recommendations. The Spotify playlist is either created or retrieved if it already exists. 
-
+It then searches for these recommended tracks on Spotify and creates a playlist with the matching tracks. The code uses the Spotipy library for interacting with the Spotify Web API and the OpenAI library for generating recommendations.
 # Libraries used:
 
     openai (OpenAI's Python library for API interactions)
