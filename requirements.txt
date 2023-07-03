@@ -1,0 +1,3 @@
+openai>=0.27.0
+PyYAML>=5.4.1
+spotipy>=2.19.0
