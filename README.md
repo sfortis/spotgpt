@@ -18,4 +18,9 @@ Prerequisites:
     Spotify API credentials: You need to have valid Spotify API credentials (client ID, client secret, redirect URI) to access the Spotify Web API.
     YAML file: Create a YAML file that contains the necessary credentials for OpenAI and Spotify APIs.
 
+This project requires also OpenAI API key and Spotify API credentials. 
+
+The OpenAI API key is used to generate music recommendations using GPT-3.5 model, and the Spotify API credentials are used to authenticate and interact with the Spotify platform for creating playlists and adding tracks.
+
+
 Please note that this code is just a starting point and may require additional modifications and configurations based on your specific requirements and environment setup.
